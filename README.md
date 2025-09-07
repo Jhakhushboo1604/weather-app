@@ -29,6 +29,9 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 
 ---
 
+🌐 Live Demo
+https://jhakhushboo1604.github.io/weather-app/
+
 ## ⚡ Installation & Setup
 1. Clone the repository:
    ```bash
