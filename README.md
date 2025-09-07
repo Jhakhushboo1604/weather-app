@@ -32,4 +32,4 @@ It fetches real-time weather data using the **OpenWeatherMap API** and displays 
 ## ⚡ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-app.git
+   git clone https://jhakhushboo1604.github.io/weather-app/
